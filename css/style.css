@@ -118,7 +118,7 @@ h3.header-text{
 
 .btn-default {
     color: #6C472C;
-  }  
+  }
 
 .btn-primary {
   background-color: #228C87;
@@ -127,7 +127,7 @@ h3.header-text{
 .btn-primary:hover{
   background-color: #6DD1C9;
   border-color: #6DD1C9;
-}  
+}
 .space{
   margin-top: 70px;
 }
@@ -349,7 +349,7 @@ a#menu-close:hover {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url(../img/bg.jpg) no-repeat center center fixed; 
+  background: url(../img/bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -373,7 +373,7 @@ a#menu-close:hover {
 }
 
 
-@media (min-width: 320px) and (max-width: 1024px) { 
+@media (min-width: 320px) and (max-width: 1024px) {
       .services {
       background: #7fbbda;
       padding: 50px 0;
@@ -393,7 +393,7 @@ i.service-icon {
   width: 140px;
   height: 140px;
   line-height: 136px;
-  vertical-align: middle; 
+  vertical-align: middle;
   text-align: center;
 }
 
@@ -409,7 +409,7 @@ h4.service-title {
   display: table;
   height: 388px;
   width: 100%;
-  background: url(../img/callout.jpg) no-repeat center center fixed; 
+  background: url(../img/callout.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -516,7 +516,7 @@ figure.effect-zoe:hover p.icon-links a:hover,
 figure.effect-zoe:hover p.icon-links a:focus {
   color: #252d31;
 }
-  
+
 
 figure.effect-zoe:hover {
   opacity: 0.8;
@@ -696,7 +696,7 @@ figure.effect-zoe:hover p.icon-links a:first-child {
     max-height: 200px;
     max-width: 100%;
   }
-  
+
 /* Generic Button Styles */
 
   .button{
@@ -821,13 +821,13 @@ i.scroll:hover {
 /* Responsive */
 
 @media (max-width: 768px) {
-  
+
   .header {
-  background: url(../img/bg.jpg) no-repeat center center scroll; 
+  background: url(../img/bg.jpg) no-repeat center center scroll;
   }
 
   .callout {
-  background: url(../img/callout.jpg) no-repeat center center scroll; 
+  background: url(../img/callout.jpg) no-repeat center center scroll;
   }
 
   .map {
@@ -866,4 +866,10 @@ i.scroll:hover {
 .confirm-btn:hover{
   color: #fff;
   background-color: rgb(22,68,94);
+}
+
+
+h1.header-text {
+  font-size: 80px;
+  font-family: 'Playfair Display SC', Bold;
 }
