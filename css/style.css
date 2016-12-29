@@ -872,4 +872,11 @@ i.scroll:hover {
 h1.header-text {
   font-size: 80px;
   font-family: 'Playfair Display SC', Bold;
+  text-shadow: none;
+  text-transform: uppercase;
+}
+
+.main-title {
+  font-family: 'Playfair Display SC', Bold;
+  text-transform: uppercase;
 }
